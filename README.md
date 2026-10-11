@@ -26,7 +26,11 @@
   📽️ <strong>Workflow Demo:</strong> <a href="https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing"><strong>Google Drive Video Walkthrough</strong></a>
 </p>
 
-[🌐 Live App](https://aa2ffe1e95ee81406.sg.agentos-app.run/) • [Slides](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing) https://docs.google.com/presentation/d/1Vn2EoWlymgeWHAUG8yJfksGzB6M5Zeg9vVV-C04AAfc/edit?usp=sharing • [🚀 Quick Start](#-quick-start) • [☁️ Tencent Cloud Hosting](#-tencent-cloud-architecture--hosting) • [🤖 WorkBuddy Architecture](#-workbuddy-agent-architecture) • [🔌 Connected APIs](#-what-apis-we-connect-with-workbuddy) • [🎮 Live Demo](#-live-demonstration) • [📊 Track 2 Rubric Defense](#-track-2-rubric-alignment)
+<div align="center">
+
+[🌐 Live App](https://aa2ffe1e95ee81406.sg.agentos-app.run/) • [Slides](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing) • [Slides Hook](https://docs.google.com/presentation/d/1Vn2EoWlymgeWHAUG8yJfksGzB6M5Zeg9vVV-C04AAfc/edit?usp=sharing) • [🚀 Quick Start](#-quick-start) • [☁️ Tencent Cloud Hosting](#-tencent-cloud-architecture--hosting) • [🤖 WorkBuddy Architecture](#-workbuddy-agent-architecture) • [🔌 Connected APIs](#-what-apis-we-connect-with-workbuddy) • [🎮 Live Demo](#-live-demonstration) • [📊 Track 2 Rubric Defense](#-track-2-rubric-alignment)
+
+</div>
 
 ---
 
