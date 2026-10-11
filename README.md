@@ -1,15 +1,22 @@
+<div align="center">
+
 # 🛡️ LAICIs
+
 ### **Local AI Checker Integration System**
+
 **Autonomous Deepfake Forensics, PDRM Mule Account Interception & Regulatory Compliance Agent**
 
-[![DORMATHON 2026](https://img.shields.io/badge/DORMATHON_2026-TRACK_2_(WorkBuddy)-crimson?style=for-the-badge)](https://dormathon.com)
-[![Live Hosted Agent](https://img.shields.io/badge/Live_Hosted_Agent-agentos--app.run-0052D9?style=for-the-badge&logo=tencent)](https://aa2ffe1e95ee81406.sg.agentos-app.run/)
-[![Workflow Demo](https://img.shields.io/badge/Workflow_Video-Google_Drive-34A853?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing)
-[![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-Hosted_&_Deployed-0052D9?style=for-the-badge&logo=tencent)](https://cloud.tencent.com)
-[![Tencent WorkBuddy](https://img.shields.io/badge/Tencent_WorkBuddy-MCP_Agent_Core-0052D9?style=for-the-badge&logo=tencent)](https://cloud.tencent.com)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-3_Flash_Preview-8E75C2?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EfficientNetV2--S-EE4C2C?style=for-the-badge&logo=pytorch)](https://pytorch.org)
-[![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-4285F4?style=for-the-badge&logo=google-chrome)](https://developer.chrome.com)
+<p>
+  <a href="https://dormathon.com"><img src="https://img.shields.io/badge/DORMATHON_2026-TRACK_2_(WorkBuddy)-crimson?style=for-the-badge" alt="Dormathon 2026"></a>
+  <a href="https://aa2ffe1e95ee81406.sg.agentos-app.run/"><img src="https://img.shields.io/badge/Live_Hosted_Agent-agentos--app.run-0052D9?style=for-the-badge&logo=tencent" alt="Live Hosted Agent"></a>
+  <a href="https://cloud.tencent.com"><img src="https://img.shields.io/badge/Tencent_Cloud-Hosted_&_Deployed-0052D9?style=for-the-badge&logo=tencent" alt="Tencent Cloud"></a>
+  <a href="https://cloud.tencent.com"><img src="https://img.shields.io/badge/Tencent_WorkBuddy-MCP_Agent_Core-0052D9?style=for-the-badge&logo=tencent" alt="Tencent WorkBuddy"></a>
+  <a href="https://deepmind.google/technologies/gemini"><img src="https://img.shields.io/badge/Google_Gemini-3_Flash_Preview-8E75C2?style=for-the-badge&logo=google" alt="Google Gemini"></a>
+  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EfficientNetV2--S-EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch"></a>
+  <a href="https://developer.chrome.com"><img src="https://img.shields.io/badge/Chrome_Extension-Manifest_V3-4285F4?style=for-the-badge&logo=google-chrome" alt="Chrome Extension"></a>
+</p>
+
+</div>
 
 <p align="center">
   <strong>Guiding Track Question:</strong><br/>
