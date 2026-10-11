@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a2dd37b9-da2d-4cef-827f-198950439cf1" /><div align="center">
 
 # 🛡️ LAICIs
 ### **Local AI Checker Integration System**
@@ -21,7 +21,7 @@
   📽️ <strong>Workflow Demo:</strong> <a href="https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing"><strong>Google Drive Video Walkthrough</strong></a>
 </p>
 
-[🌐 Live App](https://aa2ffe1e95ee81406.sg.agentos-app.run/) • [📽️ Workflow Video](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing) • [🚀 Quick Start](#-quick-start) • [☁️ Tencent Cloud Hosting](#-tencent-cloud-architecture--hosting) • [🤖 WorkBuddy Architecture](#-workbuddy-agent-architecture) • [🔌 Connected APIs](#-what-apis-we-connect-with-workbuddy) • [🎮 Live Demo](#-live-demonstration) • [📊 Track 2 Rubric Defense](#-track-2-rubric-alignment)
+[🌐 Live App](https://aa2ffe1e95ee81406.sg.agentos-app.run/) • [Slides](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing) https://docs.google.com/presentation/d/1Vn2EoWlymgeWHAUG8yJfksGzB6M5Zeg9vVV-C04AAfc/edit?usp=sharing • [🚀 Quick Start](#-quick-start) • [☁️ Tencent Cloud Hosting](#-tencent-cloud-architecture--hosting) • [🤖 WorkBuddy Architecture](#-workbuddy-agent-architecture) • [🔌 Connected APIs](#-what-apis-we-connect-with-workbuddy) • [🎮 Live Demo](#-live-demonstration) • [📊 Track 2 Rubric Defense](#-track-2-rubric-alignment)
 
 ---
 
