@@ -5,6 +5,8 @@
 **Autonomous Deepfake Forensics, PDRM Mule Account Interception & Regulatory Compliance Agent**
 
 [![DORMATHON 2026](https://img.shields.io/badge/DORMATHON_2026-TRACK_2_(WorkBuddy)-crimson?style=for-the-badge)](https://dormathon.com)
+[![Live Hosted Agent](https://img.shields.io/badge/Live_Hosted_Agent-agentos--app.run-0052D9?style=for-the-badge&logo=tencent)](https://aa2ffe1e95ee81406.sg.agentos-app.run/)
+[![Workflow Demo](https://img.shields.io/badge/Workflow_Video-Google_Drive-34A853?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing)
 [![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-Hosted_&_Deployed-0052D9?style=for-the-badge&logo=tencent)](https://cloud.tencent.com)
 [![Tencent WorkBuddy](https://img.shields.io/badge/Tencent_WorkBuddy-MCP_Agent_Core-0052D9?style=for-the-badge&logo=tencent)](https://cloud.tencent.com)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-3_Flash_Preview-8E75C2?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini)
@@ -14,10 +16,12 @@
 <p align="center">
   <strong>Guiding Track Question:</strong><br/>
   <em>"Can your AI Agent use WorkBuddy to solve a real problem and actually get things done?"</em><br/>
-  <strong>Yes. LAICIs eliminates Malaysia's RM 1.3B digital fraud triage bottleneck, cutting investigation time from 45 minutes to 3.2 seconds with One Prompt, One Goal, and Zero Micro-prompting.</strong>
+  <strong>Yes. LAICIs eliminates Malaysia's RM 1.3B digital fraud triage bottleneck, cutting investigation time from 45 minutes to 3.2 seconds with One Prompt, One Goal, and Zero Micro-prompting.</strong><br/><br/>
+  🌐 <strong>Live Cloud App:</strong> <a href="https://aa2ffe1e95ee81406.sg.agentos-app.run/"><strong>https://aa2ffe1e95ee81406.sg.agentos-app.run/</strong></a> &nbsp;|&nbsp;
+  📽️ <strong>Workflow Demo:</strong> <a href="https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing"><strong>Google Drive Video Walkthrough</strong></a>
 </p>
 
-[🚀 Quick Start](#-quick-start) • [☁️ Tencent Cloud Hosting](#-tencent-cloud-architecture--hosting) • [🤖 WorkBuddy Architecture](#-workbuddy-agent-architecture) • [🔌 Connected APIs](#-what-apis-we-connect-with-workbuddy) • [🎮 Live Demo](#-live-demonstration) • [📊 Track 2 Rubric Defense](#-track-2-rubric-alignment)
+[🌐 Live App](https://aa2ffe1e95ee81406.sg.agentos-app.run/) • [📽️ Workflow Video](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing) • [🚀 Quick Start](#-quick-start) • [☁️ Tencent Cloud Hosting](#-tencent-cloud-architecture--hosting) • [🤖 WorkBuddy Architecture](#-workbuddy-agent-architecture) • [🔌 Connected APIs](#-what-apis-we-connect-with-workbuddy) • [🎮 Live Demo](#-live-demonstration) • [📊 Track 2 Rubric Defense](#-track-2-rubric-alignment)
 
 ---
 
@@ -61,6 +65,9 @@ Malaysians lose over **RM 1.3 Billion** annually to digital fraud, social engine
 │  consensus verdict         BNM RMiT Audit Log       calibrated exposure for extortion / mules          │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+> 🌐 **Live Hosted WorkBuddy Agent Runtime**: [https://aa2ffe1e95ee81406.sg.agentos-app.run/](https://aa2ffe1e95ee81406.sg.agentos-app.run/)  
+> 📽️ **Autonomous Workflow Video Walkthrough**: [Google Drive Workflow Demonstration](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing)
 
 ---
 
@@ -120,6 +127,7 @@ LAICIs is **architected, created, and deployed on Tencent Cloud**, capitalizing 
 ```
 
 ### 1. Tencent Cloud Infrastructure Highlights
+- **Live Deployed Agent Runtime**: [https://aa2ffe1e95ee81406.sg.agentos-app.run/](https://aa2ffe1e95ee81406.sg.agentos-app.run/) (Production AgentOS instance hosted on Tencent Cloud regional cluster).
 - **Compute Instance**: Tencent Cloud Cloud Virtual Machine (CVM) / Tencent Cloud Lighthouse running Linux (Ubuntu 22.04 LTS / TencentOS).
 - **Enterprise Security**: Role-based access controlled via **Tencent Cloud API Gateway** with `TENCENTCLOUD_SECRET_ID` and `TENCENTCLOUD_SECRET_KEY`.
 - **Low Latency Regional Routing**: Optimized for Malaysian banking security with regional endpoints (`ap-guangzhou`, `ap-singapore`, `ap-bangkok`).
@@ -238,6 +246,11 @@ curl http://localhost:5000/api/workbuddy/mcp
 ---
 
 ## 🎮 Live Demonstration
+
+### 0. Live Cloud Production Application & Workflow
+- **Live Deployed Agent Runtime**: [https://aa2ffe1e95ee81406.sg.agentos-app.run/](https://aa2ffe1e95ee81406.sg.agentos-app.run/)
+- **Full Workflow Video / Demonstration**: [Google Drive Video Walkthrough](https://drive.google.com/file/d/1s63bknDYqxLTwnn5-QWSldKcxgsMPbcv/view?usp=sharing)
+- *Experience the complete autonomous triage flow live in production or inspect the narrated walkthrough.*
 
 ### 1. Interactive 4-Minute Presentation Deck
 Open the built-in presentation deck with 4:00 timer and speaker notes:
