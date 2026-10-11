@@ -1,5 +1,3 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a2dd37b9-da2d-4cef-827f-198950439cf1" /><div align="center">
-
 # 🛡️ LAICIs
 ### **Local AI Checker Integration System**
 **Autonomous Deepfake Forensics, PDRM Mule Account Interception & Regulatory Compliance Agent**
